@@ -1,7 +1,7 @@
 Hi, I’m Alexander Holmes
 - I love building creative and unique solutions to problems.
-- Graduated at Western Michgian University with Computer Science 2024
-- Looking for full time employment!
+- Graduated at Western Michgian University with Computer Science December 2024
+- Looking for a full time software related position.
 
 <!---
 ahalex73/ahalex73 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
